@@ -1,27 +1,14 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="nDhnzr6r" />
+<img src="assets/banner.svg" width="100%" alt="我们都有美好的未来" />
 
-<a href="https://github.com/nDhnzr6r"><img src="https://img.shields.io/github/followers/nDhnzr6r?label=Followers&logo=github&color=4c8eda" alt="Followers" /></a>
-<a href="https://github.com/nDhnzr6r?tab=repositories"><img src="https://img.shields.io/github/stars/nDhnzr6r?label=Stars&logo=github&color=f5c542" alt="Stars" /></a>
-<a href="https://nDhnzr6r.com"><img src="https://img.shields.io/badge/Website-nDhnzr6r.com-2ea44f?logo=firefox" alt="Website" /></a>
+<sub>高中生 · 写代码七年 · AI 工具与开源生态</sub>
 
 </div>
 
-## 你好，我是 nDhnzr6r 👋
-
-紫水晶学习小组。2019 年开始写代码，最初只是想给自己的问题找点解法，后来发现写程序这件事本身就足够有趣——把重复的麻烦变成一行命令，把模糊的想法变成别人打开就能用的东西。
-
-我做的多数东西都遵循同一套原则：不依赖复杂的环境，打开就能用；数据尽量留在本地；文档写得比代码还认真。技术上没有敢称精通的语言，但遇到不会的东西，愿意花时间把它弄明白。
-
-> 我们都有美好的未来。
-
 ## 现在在做什么
 
-- 🔭 给自己和同学写小工具，比如成绩记录、游戏资源的下载助手
-- 🌱 在学 AI 工具的使用与配置，试着把它们接进日常的编程流程
-- 📖 读英文技术文档，把看过的东西整理成能看懂的笔记
-- 💬 帮别人解决 GitHub 与开源项目的使用问题
+想干什么干什么，没有持续维护的项目。
 
 ## 语言与工具
 
@@ -37,6 +24,14 @@
 
 ## 找到我
 
-- 站点：<https://nDhnzr6r.com>
-- GitHub：<https://github.com/nDhnzr6r>
-- 有问题欢迎在对应项目里提议题
+<p align="center">全平台同名，都能用 <b>nDhnzr6r</b> 找到我。</p>
+
+<p align="center">
+  <a href="https://github.com/nDhnzr6r"><img src="https://img.shields.io/badge/GitHub-nDhnzr6r-181717?logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://space.bilibili.com/591812163"><img src="https://img.shields.io/badge/Bilibili-nDhnzr6r-00A1D6?logo=bilibili&logoColor=white" alt="Bilibili" /></a>
+  <a href="https://x.com/nDhnzr6r"><img src="https://img.shields.io/badge/X-nDhnzr6r-000000?logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://t.me/nDhnzr6r"><img src="https://img.shields.io/badge/Telegram-nDhnzr6r-26A5E4?logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://afdian.com/a/nDhnzr6r"><img src="https://img.shields.io/badge/Afdian-nDhnzr6r-946CE6" alt="Afdian" /></a>
+  <a href="https://blog.csdn.net/nDhnzr6r"><img src="https://img.shields.io/badge/CSDN-nDhnzr6r-FC5531?logo=csdn&logoColor=white" alt="CSDN" /></a>
+  <a href="mailto:nDhnzr6r@126.com"><img src="https://img.shields.io/badge/Email-nDhnzr6r%40126.com-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
