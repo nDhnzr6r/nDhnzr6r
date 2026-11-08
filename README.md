@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="我们都有美好的未来" />
+<img src="assets/hero.svg" width="100%" alt="我们都有美好的未来" />
 
 <sub>高中生 · 写代码七年 · AI 工具与开源生态</sub>
 
@@ -31,6 +31,7 @@
   <a href="https://space.bilibili.com/591812163"><img src="https://img.shields.io/badge/Bilibili-nDhnzr6r-00A1D6?logo=bilibili&logoColor=white" alt="Bilibili" /></a>
   <a href="https://x.com/nDhnzr6r"><img src="https://img.shields.io/badge/X-nDhnzr6r-000000?logo=x&logoColor=white" alt="X" /></a>
   <a href="https://t.me/nDhnzr6r"><img src="https://img.shields.io/badge/Telegram-nDhnzr6r-26A5E4?logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <br />
   <a href="https://afdian.com/a/nDhnzr6r"><img src="https://img.shields.io/badge/Afdian-nDhnzr6r-946CE6" alt="Afdian" /></a>
   <a href="https://blog.csdn.net/nDhnzr6r"><img src="https://img.shields.io/badge/CSDN-nDhnzr6r-FC5531?logo=csdn&logoColor=white" alt="CSDN" /></a>
   <a href="mailto:nDhnzr6r@126.com"><img src="https://img.shields.io/badge/Email-nDhnzr6r%40126.com-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
