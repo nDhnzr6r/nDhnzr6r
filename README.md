@@ -12,14 +12,6 @@
 
 独立的 Minecraft 下载器，支持 Forge、NeoForge、Fabric、Quilt 与 Fabric API。与 PCL、HMCL 等游戏启动器没有关系。
 
-**[Folia 自定义快捷键](https://github.com/nDhnzr6r/folia-major-version-with-customizable-keyboard-shortcuts)**
-
-Folia 音乐播放器的自定义全局快捷键版本，修饰键和按键由使用者自己设定。
-
-**[时疆码](https://github.com/nDhnzr6r/ChronoVault-Code)**
-
-一种简易的时间编码。
-
 ## 技术
 
 Python、C++、HTML、CSS、JavaScript 都还停在能做出东西的程度，没有精通的。
